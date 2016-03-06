@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Sound Off]]></title>
+        <description><![CDATA[The Sound Off]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 14:25:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deezy Freeman]]></title>
+            <description><![CDATA[<article><h1>Deezy Freeman</h1><p>The Sound Off - Top 5 Rappers of 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dca52c0bbd4e86159563cc300ab73be5a729cd5.jpg"></article>]]></description>
+            <link>undefined803cacbd-1a69-4435-8931-600986d3b789/index.html</link>
+            <guid isPermaLink="false">803cacbd-1a69-4435-8931-600986d3b789</guid>
+            <pubDate>Sun, 06 Mar 2016 14:24:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
