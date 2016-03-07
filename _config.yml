@@ -1,6 +1,6 @@
 name: The Sound Off
 favicon: null
-layout_spectrum: 0.67365
+layout_spectrum: 1
 typography_spectrum: 0.28297
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#1d974b'
     - '#7bc49c'
     - '#8b8a8a'
-  brandStrength: 0.7140841619111598
-  lightness: 0.5230717435479164
-  saturation: 0.28076555393636227
-  rhythmicContrast: 0.5047440764028579
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
