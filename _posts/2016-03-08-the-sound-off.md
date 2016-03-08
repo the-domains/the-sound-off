@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/soundofff'
 inLanguage: null
 starred: true
 keywords: []
-description: 'Listen to The Sound Off | Explore the largest community of artists, bands, podcasters and creators of music & audio.. 4 Tracks. 48 Followers. Stream Tracks and Playlists from The Sound Off on your desktop or mobile device.'
-datePublished: '2016-03-08T06:14:49.787Z'
-dateModified: '2016-03-08T06:14:39.768Z'
+description: 'Listen to The Sound Off and #DiscoverNewMusic'
+datePublished: '2016-03-08T06:22:49.668Z'
+dateModified: '2016-03-08T06:22:44.585Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -64,7 +64,7 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/837a5124-edb7-4983-9f8e-ed2c1d1b480c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d8e5c4f-f38c-485d-8c13-90ab29b2b6fd.jpg)
 
 Broadcasting from 39 kilometres west of the Canadian National Tower in Toronto, Ontario, Canada its The Sound Off with Kev and Jay. 
 
