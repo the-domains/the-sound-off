@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/soundofff/the-sound-off-episode-1'
 inLanguage: null
 starred: false
 keywords: []
-description: The Sound Off with Kev and Jay talk about the top 5 rappers to look for in 2016.
-datePublished: '2016-03-08T06:14:22.306Z'
-dateModified: '2016-03-08T06:10:48.205Z'
+description: Kev and Jay talk about the top 5 rappers to look for in 2016.
+datePublished: '2016-03-08T06:26:00.959Z'
+dateModified: '2016-03-08T06:25:49.236Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
