@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kev and Jay talk about the top 5 rappers to look for in 2016.
-datePublished: '2016-03-09T15:21:41.966Z'
-dateModified: '2016-03-09T15:21:24.650Z'
+datePublished: '2016-03-09T16:05:48.148Z'
+dateModified: '2016-03-09T15:30:39.697Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -66,4 +66,4 @@ _context: 'http://schema.org'
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F250368581%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fsoundofff%2Fthe-sound-off-episode-1&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000149778512-5o8yuj-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2f4d78-3a54-46d9-b8b6-629ed3ec18e8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df902840b941f0995df99a0f50bde51a1d89416.png)
