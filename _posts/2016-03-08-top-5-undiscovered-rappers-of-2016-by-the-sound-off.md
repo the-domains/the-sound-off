@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kev and Jay talk about the top 5 rappers to look for in 2016.
-datePublished: '2016-03-16T04:55:34.862Z'
-dateModified: '2016-03-16T04:55:32.012Z'
+datePublished: '2016-03-16T04:59:08.507Z'
+dateModified: '2016-03-16T04:59:05.261Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -50,7 +50,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Top 5 Undiscovered Rappers of 2016 by The Sound Off
+title: Top 5 Undiscovered Rappers
 sourcePath: _posts/2016-03-08-top-5-undiscovered-rappers-of-2016-by-the-sound-off.md
 published: true
 authors: []
