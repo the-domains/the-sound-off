@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The Sound Off's preview of the Wayhome festival 2016."
-datePublished: '2016-03-16T04:55:24.070Z'
-dateModified: '2016-03-16T04:55:18.995Z'
+datePublished: '2016-03-16T04:58:13.541Z'
+dateModified: '2016-03-16T04:58:05.718Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
