@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Broadcasting from 39 kilometres west of the Canadian National Tower in Toronto, Ontario, Canada its The Sound Off with Kev and Jay. Featuring a ton of wicked awesome new music submitted directly to us from the most passionate, hard-working independent musicians in the game. We compile the best of the best and jam pack them into one show. Keep the tracks coming! Artists and bands can send all tracks to us through our Facebook page!'
-datePublished: '2016-03-09T16:06:16.992Z'
-dateModified: '2016-03-09T16:06:13.827Z'
+datePublished: '2016-03-16T04:46:05.686Z'
+dateModified: '2016-03-16T04:46:05.451Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -66,5 +66,5 @@ _context: 'http://schema.org'
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d8e5c4f-f38c-485d-8c13-90ab29b2b6fd.jpg)
 
-Broadcasting from 39 kilometres west of the Canadian National Tower in Toronto, Ontario, Canada its The Sound Off with Kev and Jay. Featuring a ton of wicked awesome new music submitted directly to us from the most passionate, hard-working independent musicians in the game. We compile the best of the best and jam pack them into one show. Keep the tracks coming! Artists and bands can send all tracks to us through our Facebook page!
+## Broadcasting from 39 kilometres west of the Canadian National Tower in Toronto, Ontario, Canada its The Sound Off with Kev and Jay. Featuring a ton of wicked awesome new music submitted directly to us from the most passionate, hard-working independent musicians in the game. We compile the best of the best and jam pack them into one show. Keep the tracks coming! Want to debut your new single on The Sound Off? Send your submissions to soundoff.rocks@gmail.com
 ![Hit us up on Facebook](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9144060aac1fb77f0b97abc4e26d1141ebda1694.jpg)
