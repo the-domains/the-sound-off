@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/soundofff/the-sound-off-episode-1'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Kev and Jay talk about the top 5 rappers to look for in 2016.
-datePublished: '2016-03-09T16:06:31.950Z'
-dateModified: '2016-03-09T16:06:29.605Z'
+datePublished: '2016-03-16T04:55:09.132Z'
+dateModified: '2016-03-16T04:46:24.994Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -60,6 +59,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: top-5-undiscovered-rappers-of-2016-by-the-sound-off/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
