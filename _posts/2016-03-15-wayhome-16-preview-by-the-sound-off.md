@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "The Sound Off's preview of the Wayhome festival 2016."
-datePublished: '2016-03-15T04:13:45.373Z'
-dateModified: '2016-03-15T04:13:44.937Z'
+datePublished: '2016-03-16T04:55:24.070Z'
+dateModified: '2016-03-16T04:55:18.995Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: ios
 title: "Wayhome '16 Preview by The Sound Off"
+sourcePath: _posts/2016-03-15-wayhome-16-preview-by-the-sound-off.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-15-wayhome-16-preview-by-the-sound-off.md
-published: true
 url: wayhome-16-preview-by-the-sound-off/index.html
 _type: AudioObject
 _context: 'http://schema.org'
