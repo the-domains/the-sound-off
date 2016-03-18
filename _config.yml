@@ -1,28 +1,38 @@
-name: The Sound Off
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.28297
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#ffffff'
-    - '#231f20'
-    - '#1d974b'
-    - '#7bc49c'
-    - '#8b8a8a'
+  saturation: 0.25
   brandStrength: 0.6875
   lightness: 0.5
-  saturation: 0.25
+  brandColors:
+    - '#000000'
+    - '#231F20'
+    - '#0F9848'
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.112766
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: The Sound Off
