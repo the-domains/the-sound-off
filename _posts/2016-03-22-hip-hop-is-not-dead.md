@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Sound Off with Kev and Jay discuss Gene Simmons recent remarks about the death of hip hop and they talk about the biggest mistake artists make on social media. New Music this week by MoSS and Rich McMichael.
-datePublished: '2016-03-22T05:30:29.686Z'
-dateModified: '2016-03-22T05:30:22.726Z'
+datePublished: '2016-03-22T13:26:08.164Z'
+dateModified: '2016-03-22T13:25:51.057Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Hip Hop Is Not Dead '
+sourcePath: _posts/2016-03-22-hip-hop-is-not-dead.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-22-hip-hop-is-not-dead.md
-published: true
 url: hip-hop-is-not-dead/index.html
 _type: AudioObject
 _context: 'http://schema.org'
