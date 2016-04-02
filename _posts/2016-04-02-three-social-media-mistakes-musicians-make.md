@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'For starters, what is it you are trying to accomplish? Records sales? A loyal fan base? Gig promotion? All of the above? Well, there are quite a few mistakes artists make when using social media. Here are the top 3:'
-datePublished: '2016-04-02T14:40:07.133Z'
-dateModified: '2016-04-02T14:39:49.773Z'
+description: "Social media is a crucial tool all artists and bands need to take advantage of. It is very simple to post about a recent single or\_new video release time and time again.\_There are some important facts you must consider to avoid wasting your time and start getting the most out of your social media platforms."
+datePublished: '2016-04-02T14:43:09.342Z'
+dateModified: '2016-04-02T14:40:40.158Z'
 title: '#1: Lack of Presence'
 author: []
 sourcePath: _posts/2016-04-02-three-social-media-mistakes-musicians-make.md
@@ -51,7 +51,5 @@ Many artists neglect the golden opportunity of an e-mail list. E-mails can easil
 E-mail marketing creates a direct connection to your fans and is the best way to market a live event or album release. I would suggest getting an e-mail at the very least before giving away your music for free.  
 
 If you are looking for more information on taking your artist or band to the next level, contact [Fresh Crowd][0] today and your personal social media manager will be happy to help elevate your music to the next level.
-
-
 
 [0]: http://freshcrowd.rocks/
