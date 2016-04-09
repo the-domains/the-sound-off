@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Broadcasting from 39 kilometres west of the Canadian National Tower in Toronto, Ontario, Canada its The Sound Off with Kev and Jay. Featuring a ton of wicked awesome new music submitted directly to us from the most passionate, hard-working independent musicians in the game. We compile the best of the best and jam pack them into one show. Keep the tracks coming! Artists and bands can send all tracks to us through our Facebook page!'
-datePublished: '2016-03-16T05:06:51.049Z'
-dateModified: '2016-03-16T05:06:49.181Z'
+datePublished: '2016-04-09T21:58:45.801Z'
+dateModified: '2016-04-09T21:58:09.969Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundofff'
