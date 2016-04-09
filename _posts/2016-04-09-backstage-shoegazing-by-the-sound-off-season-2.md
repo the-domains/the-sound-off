@@ -1,45 +1,48 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/soundoffs2/backstage-shoegazing'
+inLanguage: null
+starred: true
+keywords: []
+description: 'The Sound Off this week discusses backstage demands and routines. We shed the light on Shoegaze rock with new music from The Veldt, Blood Hounds On My Trail and Ummagma.'
+datePublished: '2016-04-09T21:27:32.229Z'
+dateModified: '2016-04-09T21:27:24.732Z'
 author:
   - name: The Sound Off Season 2
     url: 'http://soundcloud.com/soundoffs2'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'The Sound Off this week discusses backstage demands and routines. We shed the light on Shoegaze rock with new music from The Veldt, Blood Hounds On My Trail and Ummagma.'
 app_links:
-  - type: ios
+  - app_name: SoundCloud
     namespace: ai
-    app_name: SoundCloud
     app_store_id: '336353151'
-  - should_fallback: 'false'
+    type: ios
+  - package: com.soundcloud.android
     app_name: SoundCloud
-    package: com.soundcloud.android
-    url: 'soundcloud://sounds:258181616'
     namespace: ai
+    should_fallback: 'false'
+    url: 'soundcloud://sounds:258181616'
     type: ios
   - url: 'soundcloud://sounds:258181616'
     type: android
     namespace: ai
-  - url: 'soundcloud://sounds:258181616'
+  - id: '336353151'
     namespace: twitter
+    url: 'soundcloud://sounds:258181616'
     type: ipad
     name: SoundCloud
-    id: '336353151'
-  - url: 'soundcloud://sounds:258181616'
+  - id: '336353151'
     namespace: twitter
+    url: 'soundcloud://sounds:258181616'
     type: iphone
     name: SoundCloud
-    id: '336353151'
-  - url: 'soundcloud://sounds:258181616'
+  - id: com.soundcloud.android
     namespace: twitter
+    url: 'soundcloud://sounds:258181616'
     type: googleplay
     name: SoundCloud
-    id: com.soundcloud.android
   - path: 'soundcloud/sounds:258181616'
     package: com.soundcloud.android
     namespace: google
@@ -48,15 +51,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/soundoffs2/backstage-shoegazing'
 title: Backstage Shoegazing by The Sound Off Season 2
-datePublished: '2016-04-09T20:52:24.444Z'
-dateModified: '2016-04-09T20:15:20.607Z'
 sourcePath: _posts/2016-04-09-backstage-shoegazing-by-the-sound-off-season-2.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 _type: AudioObject
 _context: 'http://schema.org'
 
