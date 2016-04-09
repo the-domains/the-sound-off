@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Social media is a crucial tool all artists and bands need to take advantage of. It is very simple to post about a recent single or\_new video release time and time again.\_There are some important facts you must consider to avoid wasting your time and start getting the most out of your social media platforms."
-datePublished: '2016-04-04T14:01:51.249Z'
-dateModified: '2016-04-02T14:54:21.463Z'
+datePublished: '2016-04-09T21:59:49.898Z'
+dateModified: '2016-04-04T14:01:56.832Z'
 title: Social Media Mistakes Musicians Make
 author: []
 sourcePath: _posts/2016-04-02-three-social-media-mistakes-musicians-make.md
