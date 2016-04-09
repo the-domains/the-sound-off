@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/soundoffs2/backstage-shoegazing'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'The Sound Off this week discusses backstage demands and routines. We shed the light on Shoegaze rock with new music from The Veldt, Blood Hounds On My Trail and Ummagma.'
-datePublished: '2016-04-09T21:27:32.229Z'
-dateModified: '2016-04-09T21:27:24.732Z'
+datePublished: '2016-04-09T21:28:26.731Z'
+dateModified: '2016-04-09T21:27:38.053Z'
 author:
   - name: The Sound Off Season 2
     url: 'http://soundcloud.com/soundoffs2'
@@ -51,7 +50,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Backstage Shoegazing by The Sound Off Season 2
+title: 'Backstage Shoegazing '
 sourcePath: _posts/2016-04-09-backstage-shoegazing-by-the-sound-off-season-2.md
 published: true
 authors: []
@@ -60,6 +59,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: backstage-shoegazing/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
