@@ -4,7 +4,7 @@
         <description><![CDATA[The Sound Off]]></description>
         <link>https://thegrid.ai/the-sound-off/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 14:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 20:52:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-sound-off/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Sound Off]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-sound-off/the-sound-off/index.html</link>
             <guid isPermaLink="false">c15513f7-67ab-4ba0-8aca-a61726314130</guid>
             <pubDate>Wed, 16 Mar 2016 05:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Backstage Shoegazing by The Sound Off Season 2]]></title>
+            <description><![CDATA[<article><h1>Backstage Shoegazing by The Sound Off Season 2</h1><p>The Sound Off this week discusses backstage demands and routines. We shed the light on Shoegaze rock with new music from The Veldt, Blood Hounds On My Trail and Ummagma.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bfd6620adb541f5147b2e31696b786153f7ce56.jpg"></article>]]></description>
+            <link>https://soundcloud.com/soundoffs2/backstage-shoegazing</link>
+            <guid isPermaLink="false">8b4481d8-b23c-48ed-b16c-29dc32fc5a32</guid>
+            <pubDate>Sat, 09 Apr 2016 20:52:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#1: Lack of Presence]]></title>
@@ -42,18 +49,18 @@
             <pubDate>Wed, 16 Mar 2016 05:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top 5 Undiscovered Rappers]]></title>
-            <description><![CDATA[<article><h1>Top 5 Undiscovered Rappers</h1><p>The Sound Off with Kev and Jay talk about the top 5 rappers to look for in 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857a887f265818acd27d02e40b9780f25d0802c0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-sound-off/top-5-undiscovered-rappers-of-2016-by-the-sound-off/index.html</link>
-            <guid isPermaLink="false">311ed77e-9704-4490-b14e-ef23edf3d379</guid>
-            <pubDate>Wed, 16 Mar 2016 04:59:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Top 5 Undiscovered Rappers of 2016]]></title>
             <description><![CDATA[<article><h1>Top 5 Undiscovered Rappers of 2016</h1><p>The Sound Off - Top 5 Rappers of 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c930606f1d4e6f7500219c45bc2cce5818cc37a9.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-sound-off/803cacbd-1a69-4435-8931-600986d3b789/index.html</link>
             <guid isPermaLink="false">803cacbd-1a69-4435-8931-600986d3b789</guid>
             <pubDate>Wed, 16 Mar 2016 04:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top 5 Undiscovered Rappers]]></title>
+            <description><![CDATA[<article><h1>Top 5 Undiscovered Rappers</h1><p>The Sound Off with Kev and Jay talk about the top 5 rappers to look for in 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/857a887f265818acd27d02e40b9780f25d0802c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-sound-off/top-5-undiscovered-rappers-of-2016-by-the-sound-off/index.html</link>
+            <guid isPermaLink="false">311ed77e-9704-4490-b14e-ef23edf3d379</guid>
+            <pubDate>Wed, 16 Mar 2016 04:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
