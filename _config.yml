@@ -1,8 +1,7 @@
+name: The Sound Off
+favicon: null
 layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.112766
 collections:
   - index:
       path: /
@@ -15,24 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: The Sound Off
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.25
-  brandStrength: 0.6875
-  lightness: 0.5
   brandColors:
     - '#000000'
     - '#231F20'
     - '#0F9848'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.25
   rhythmicContrast: 0.5
-typography_spectrum: 0.112766
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Sound Off
+purpose: []
