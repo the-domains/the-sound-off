@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Exclusive interview with former fire fighter and professional lacrosse player turned entrepreneur Darryl MacDonald. Darryl founded life mentorship program 'The Epic Life Academy'. New Music from Garth Adam, Nile Groove and Ray William Roldan."
-datePublished: '2016-04-22T02:54:45.878Z'
-dateModified: '2016-04-22T02:54:31.957Z'
+datePublished: '2016-04-22T02:56:28.256Z'
+dateModified: '2016-04-22T02:56:09.861Z'
 author:
   - name: The Sound Off
     url: 'http://soundcloud.com/soundoffs2'
